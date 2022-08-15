@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+nav > a {
+  text-align: center;
+}
+img {
+  text-align: center;
+  font-size: smaller;
+}
+#feature-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+#details > div {
+   float: left;
+}
